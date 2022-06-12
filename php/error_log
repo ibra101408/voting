@@ -1,0 +1,12 @@
+[12-Jun-2022 21:10:12 UTC] PHP Warning:  Undefined array key "h_id" in /home/daniilvodenejevi/public_html/vote/php/b.php on line 7
+[12-Jun-2022 21:10:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/daniilvodenejevi/public_html/vote/php/b.php on line 25
+[12-Jun-2022 21:10:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/daniilvodenejevi/public_html/vote/php/b.php on line 28
+[12-Jun-2022 21:10:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/daniilvodenejevi/public_html/vote/php/b.php on line 28
+[12-Jun-2022 21:10:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/daniilvodenejevi/public_html/vote/php/b.php on line 56
+[12-Jun-2022 21:10:57 UTC] PHP Warning:  Undefined array key "h_id" in /home/daniilvodenejevi/public_html/vote/php/b.php on line 7
+[12-Jun-2022 21:10:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/daniilvodenejevi/public_html/vote/php/b.php on line 25
+[12-Jun-2022 21:10:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/daniilvodenejevi/public_html/vote/php/b.php on line 28
+[12-Jun-2022 21:10:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/daniilvodenejevi/public_html/vote/php/b.php on line 28
+[12-Jun-2022 21:10:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/daniilvodenejevi/public_html/vote/php/b.php on line 56
+[12-Jun-2022 21:18:30 UTC] PHP Warning:  Undefined array key "decision" in /home/daniilvodenejevi/public_html/vote/php/b.php on line 4
+[12-Jun-2022 21:18:31 UTC] PHP Warning:  Undefined array key "decision" in /home/daniilvodenejevi/public_html/vote/php/b.php on line 4
