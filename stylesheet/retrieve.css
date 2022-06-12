@@ -1,0 +1,22 @@
+body{
+    background:#f7f7f7;
+}
+
+.container{
+    margin-top:3%;
+}
+
+
+
+            /*For Phones*/
+@media (max-width:450px){
+    
+    body{
+        font-size:12px;
+    }
+    .container{
+        margin-top:7%;
+    }
+    .tab{
+    }
+}

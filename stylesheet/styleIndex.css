@@ -1,0 +1,59 @@
+body{
+    background:#f7f7f7;
+}
+
+.container{
+    margin-top:3%;
+}
+
+.info{
+    margin-top:25%;
+}
+
+.button7{
+    color: #353535;
+    text-decoration:none;
+    font-size: 16px;
+    background:#e0e5ec;
+    padding: 7px 15px;
+    border: 2px solid #000;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+}
+
+.button7:hover {
+    color:#1b1c1c;
+   box-shadow:
+   -7px -7px 20px 0px #fff9,
+   -4px -4px 5px 0px #fff9,
+   7px 7px 20px 0px #0002,
+   4px 4px 5px 0px #0001;
+}
+
+
+        /*For Phones*/
+@media all and (max-width:700px){
+    .container{
+        margin-top:7%;
+    }
+    .info{
+        margin-top:60%;
+    }
+    .fs-2{
+        color:black;
+        margin-left:50%;
+        font-size:20px;
+    }
+    .button7{
+        margin-top:40%;
+        margin-left:100%;
+        font-size:25px;
+        padding: 15px 25px;
+    }
+}
+

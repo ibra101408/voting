@@ -1,0 +1,129 @@
+body{
+    background:#f7f7f7;
+}
+
+.container{
+    margin-top:3%;
+}
+
+
+.fs{
+    background:red;
+}
+
+
+/*TABLE*/
+.table{
+    margin-top:15%;
+    margin-left: 15%;
+    width:20%
+} 
+.a_table_tr {
+    
+} 
+
+
+/*TIMER*/
+#timer{
+    margin-top:20%;
+}
+
+
+/*LINKS*/
+.links{
+    text-decoration: none;
+    color:black;
+}
+#links{
+    text-decoration: none;
+    color:black;
+}
+#thirdCol{
+    margin-top:5%;
+}
+
+
+/*
+
+#snackbar-container{
+    position: fixed;
+    top:50%;
+    right:2%;
+    width:300px;
+    display:flex;
+    flex-direction:column;
+}
+
+.snackbar{
+    padding: 0.75rem 0.4rem;
+    margin: 0.5rem;
+    width: 100%;
+    border-radius:10px;
+    box-shadow:2px 2px 5px rgba(0, 0, 0, 0.7);
+    color:white;
+    animation: fade-in 3s ease ;
+}
+
+.snackbar span{
+    float: right;
+    cursor: pointer;
+}
+
+.success{
+    background-color:green;
+}
+
+
+.fadeout{
+    animation: fade-out 2s ease 2s forwards;
+}
+
+@keyframes fade-in{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+@keyframes fade-out{
+    0%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+}*/
+
+
+
+            /*For Phones*/
+@media (max-width:450px){
+    
+    .container{
+        margin-top:7%;
+    }
+    .table{
+        margin-top:30%;
+        font-size:20px;
+    }
+    #thirdCol{
+        margin-left:50%;
+    }
+    #list{
+        margin-left:45%;
+    }
+    #timer{
+    }
+}
+
+
+
+
+
+
+
+
+
+
+/*https://www.google.com/search?q=Anyone+but+Trump&ei=ZWmfYojUFqqWjgaKj4yoBw&ved=0ahUKEwjImtzvzpv4AhUqi8MKHYoHA3UQ4dUDCA4&uact=5&oq=Anyone+but+Trump&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGAFKBAhGGABQkQlYkQlg9QpoBHAAeACAAUSIAUSSAQExmAEAoAECoAEBwAEB&sclient=gws-wiz*/
