@@ -1,5 +1,5 @@
 <?php
-include_once 'database.php';
+include_once './php/database.php';
 
 ?>
 <!DOCTYPE html>
@@ -37,7 +37,7 @@ include_once 'database.php';
                 
                 -->
                 
-                <a href="a.php" type="submit" name="nameSave" class="button7">Start!</a>
+                <a href="./php/a.php" type="submit" name="nameSave" class="button7">Start!</a>
             </div>
           </div>
           <div class="col">
